@@ -1,0 +1,22 @@
+/usr/sbin/mysqld, Version: 8.0.21 (MySQL Community Server - GPL). started with:
+Tcp port: 3306  Unix socket: /var/run/mysqld/mysqld.sock
+Time                 Id Command    Argument
+2020-08-14T09:13:37.253786+09:00	    8 Connect	root@localhost on  using Socket
+2020-08-14T09:13:37.255807+09:00	    8 Connect	Access denied for user 'root'@'localhost' (using password: NO)
+2020-08-14T09:13:53.092639+09:00	    9 Connect	root@localhost on  using Socket
+2020-08-14T09:13:53.093662+09:00	    9 Connect	Access denied for user 'root'@'localhost' (using password: YES)
+2020-08-14T09:14:27.564901+09:00	   10 Connect	root@localhost on root using Socket
+2020-08-14T09:14:27.567027+09:00	   10 Connect	Access denied for user 'root'@'localhost' (using password: YES)
+2020-08-14T09:14:34.917073+09:00	   11 Connect	root@localhost on  using Socket
+2020-08-14T09:14:34.918236+09:00	   11 Connect	Access denied for user 'root'@'localhost' (using password: YES)
+2020-08-14T09:14:53.187609+09:00	   12 Connect	root@localhost on  using Socket
+2020-08-14T09:14:53.188635+09:00	   12 Connect	Access denied for user 'root'@'localhost' (using password: YES)
+2020-08-14T09:18:43.554388+09:00	   13 Connect	root@localhost on  using Socket
+2020-08-14T09:18:43.557204+09:00	   13 Connect	Access denied for user 'root'@'localhost' (using password: NO)
+2020-08-14T09:18:48.830928+09:00	   14 Connect	root@localhost on  using Socket
+2020-08-14T09:18:48.831666+09:00	   14 Connect	Access denied for user 'root'@'localhost' (using password: YES)
+2020-08-14T09:21:07.908124+09:00	   15 Connect	root@localhost on  using Socket
+2020-08-14T09:21:07.911014+09:00	   15 Connect	Access denied for user 'root'@'localhost' (using password: NO)
+2020-08-14T09:22:18.069439+09:00	   16 Connect	root@localhost on  using Socket
+2020-08-14T09:22:18.071165+09:00	   16 Query	select @@version_comment limit 1
+2020-08-14T09:22:38.680755+09:00	   16 Quit	
